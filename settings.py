@@ -3,3 +3,6 @@ def f():
 
 def g():
     pass
+
+def h():
+    pass
