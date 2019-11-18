@@ -5,4 +5,4 @@ def g():
     pass
 
 def bug():
-    print("bug!"
+    print("bug!")
